@@ -6,3 +6,8 @@ Fran's quest into data science for social research
 - sklearn -> a package for machine learning on tabular datasets 
 
 **Week 1** -> Loading and saving datasets 
+
+Project Plans 
+* Deploy a streamlit app to streamlit cloud 
+* Load an excel sheet to streamlit before starting to analyse it 
+* Use jupyter-scatter and an LLM to analyse clusters and themes in text. 
